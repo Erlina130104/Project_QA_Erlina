@@ -80,15 +80,6 @@ This folder contains test automation scripts I created with Selenium. Several au
 - Product filtering automation
 - Add to cart automation
 
-### CV_QA
-This folder contains my CV in PDF format which includes:
-- Professional profile
-- Work experience and projects
-- Technical skills (Manual Testing, Automation, API Testing, Security Testing)
-- Tools mastered (Selenium, Postman, JIRA, Excel, etc.)
-- Certifications and training
-- Contact information
-
 ## Testing Results
 
 | Metric | Count | Percentage |
